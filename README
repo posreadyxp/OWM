@@ -1,0 +1,17 @@
+OWM
+===
+
+This is my first Python OWM project.
+Here I add menu and msde many-many funcs for working with OWM tool.
+I think this is very simple and very useful project.
+
+Where you can start and rich API key?
+Here:
+          https://openweathermap.org/ 
+
+First login next go to dashboard and search API keys label.
+And paste into this code!
+
+Enjoy :3
+
+LICENSE:MIT
